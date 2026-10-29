@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# H1 **MY FAVORITE TV SERIES/MOVIES**
+# **MY FAVORITE TV SERIES/MOVIES**
 
 -*Better call Saul*
 Better Call Saul is a crime drama and a a prequel to Breaking Bad that follows the tragic transformation of small-time attorney Jimmy McGill into the flamboyant morally flexible criminal lawyer Saul Goodman.
